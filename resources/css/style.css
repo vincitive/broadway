@@ -1,0 +1,54 @@
+html {
+	font-family: helvetica;
+	text-align: center;
+}
+
+.title {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+.navigator {
+	font-size: 18px;
+	color: white;
+}
+.lasaga {
+	background-image: url("../icons/the-flatiron-building.png");
+	background-size: cover; 
+}
+
+.process {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.threesteps {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#subtext1, #subtext2, #subtext3, #subtext4, #subtext5, #subtext6 {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.title2 {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url("../icons/the-flatiron-building.png");
+}
+
+.navigatorleft {
+	font-size: 18px;
+	color: white;
+	text-align: left;
+	background-color: dimgray;
+}
+
+#copyright {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
